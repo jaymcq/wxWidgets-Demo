@@ -15,7 +15,7 @@ bool App::OnInit() {
 	// We can use some extra functions to define how big our window is and where it appears on the screen here too. 
 	// The reason to do this is that if we define it in our wxFrame arguments, that is the soze for the whole window.
 	// Doing it this way is giving the exact space you want the client part of the window to be, it will add the title and borders to that.
-	mainFrame->SetClientSize(1000, 800);
+	mainFrame->SetClientSize(800, 600);
 	mainFrame->Center();
 
 	// The frame will be hidden, we need to call the Show() method:
