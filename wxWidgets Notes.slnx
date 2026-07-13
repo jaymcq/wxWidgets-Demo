@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="ReadMe.md" />
+  </Folder>
+  <Project Path="wxWidgets Notes/wxWidgets Notes.vcxproj" Id="2dc31848-b2a2-4842-b999-8f14088fff2e" />
+</Solution>
