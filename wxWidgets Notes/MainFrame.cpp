@@ -61,7 +61,7 @@ MainFrame::MainFrame(const wxString& title) : wxFrame(nullptr, wxID_ANY, title, 
 	choice->Select(0);
 
 	// Spin control - you need the 'wx/spinctrl.h' included, you can add a string for the name and initial, minimum and maximum values
-	wxSpinCtrl* spinCtrl = new wxSpinCtrl(panel, wxID_ANY, "Spin Controller", wxPoint(550, 375), wxSize(100, 1));
+	wxSpinCtrl* spinCtrl = new wxSpinCtrl(panel, wxID_ANY, "Spin Controller", wxPoint(550, 375), wxSize(100, -1));
 
 	// List Box - will need an array added to the end
 	wxListBox* listBox = new wxListBox(panel, wxID_ANY, wxPoint(150, 475), wxSize(100, -1), choices);

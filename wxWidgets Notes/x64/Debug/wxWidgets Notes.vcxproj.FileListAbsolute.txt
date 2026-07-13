@@ -1,0 +1,13 @@
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\wxbase331ud_vc_x64_custom.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\zd.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\pcre2-16d.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\wxmsw331ud_core_vc_x64_custom.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\jpeg62.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\libpng16d.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\tiffd.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\liblzma.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\libwebpdecoder.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\libwebp.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\libsharpyuv.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\x64\Debug\libwebpdemux.dll
+C:\Users\iamja\source\repos\wxWidgets Notes\wxWidgets Notes\x64\Debug\wxWidget.17F99C3C.Up2Date
