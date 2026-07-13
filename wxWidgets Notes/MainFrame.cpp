@@ -4,6 +4,11 @@
 
 
 // If you want all your buttons to have an ID you set up you can use an enum
+enum {
+	BUTTON_0 = 1000,
+	BUTTON_1 = 1001,
+	BUTTON_3 = 1002
+};
 
 // Always dynamically allocate any thing you do. Can cause major problems if you don't.
 
@@ -23,8 +28,8 @@ MainFrame::MainFrame(const wxString& title) : wxFrame(nullptr, wxID_ANY, title, 
 
 	// Note that the starting position for anything is the top left pixel of whatever you're adding
 	
-	// Button:
-	wxButton* button = new wxButton(panel, wxID_ANY, "Button", wxPoint(150, 50), wxSize(100, 35));
+	// Button - Example with using enum for ID
+	wxButton* button = new wxButton(panel, BUTTON_1, "Button", wxPoint(150, 50), wxSize(100, 35));
 	 
 	// Check Box - This has a default size so xe can leave it blank to load the default
 	wxCheckBox* checkBox = new wxCheckBox(panel, wxID_ANY, "Check Box", wxPoint(550, 55));
