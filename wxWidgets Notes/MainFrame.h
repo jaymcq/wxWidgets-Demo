@@ -10,5 +10,6 @@ public:
 	// wxString is the string implementation for wxWidgets, passing a const reference
 	MainFrame(const wxString& title);
 
+
 };
 
