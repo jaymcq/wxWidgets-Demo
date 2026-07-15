@@ -132,6 +132,7 @@
     <ClInclude Include="MainFrameThree.h" />
     <ClInclude Include="MainFrameTwo.h" />
     <ClInclude Include="MainFrame.h" />
+    <ClInclude Include="MouseEvents.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="App.cpp" />
@@ -139,6 +140,7 @@
     <ClCompile Include="MainFrameFour.cpp" />
     <ClCompile Include="MainFrameThree.cpp" />
     <ClCompile Include="MainFrameTwo.cpp" />
+    <ClCompile Include="MouseEvents.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
