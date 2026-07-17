@@ -3,7 +3,7 @@
 
 MouseEvents::MouseEvents(const wxString& title) : wxFrame(nullptr, wxID_ANY, title) {
 	wxPanel* panel = new wxPanel(this);
-	wxButton* button = new wxButton(panel, wxID_ANY, "Buttopn", wxPoint(300, 250), wxSize(200, 100));
+	wxButton* button = new wxButton(panel, wxID_ANY, "Button", wxPoint(300, 250), wxSize(200, 100));
 
 	// Sometimes with data being streamed constantly, your updating values will flicker as the update.
 	// You can fix this with Double Frame Buffering like this:
